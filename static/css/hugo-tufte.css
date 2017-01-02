@@ -18,7 +18,7 @@ html, button, input, select, textarea, p, nav, section, article, header, footer,
 }*/
 
 code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: Monaco, "Liberation Mono", Menlo, Consolas, Courier, monospace;
     font-size: 1.125rem;
     line-height: 1.6;
 }

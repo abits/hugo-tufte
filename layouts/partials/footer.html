@@ -19,7 +19,7 @@
       {{ . | safeHTML }}
     {{ else }}
       &copy; {{.Now.Format "2006"}}
-    {{ with .Site.Params.copyrightHolder }}{{ . }}{{end}}.
+    {{ with .Site.Params.copyrightHolder }}{{ . }}{{end}}
     All rights reserved.
     {{end}}
   </p>
